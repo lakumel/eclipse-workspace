@@ -1,0 +1,81 @@
+
+/* 푸터 */
+footer {
+  width: 100%;
+  height: 350px;
+  background-color: #222;
+  color: #eee;
+}
+footer #footer_wrap {
+  display: inline-block;
+}
+footer #footer_wrap li {
+  display: block;
+}
+footer #contact_us {
+  display: inline-block;
+  position: relative;
+  left: 200px;
+  /* border: solid 1px red; */
+  width: 30%;
+  vertical-align: top;
+}
+footer #provision {
+  padding: 50px 0 0 70px;
+  /* display: inline-block; */
+}
+footer #provision li {
+  display: inline-block;
+  margin-right: 20px;
+}
+footer #company_info {
+  margin: 150px 0 0 70px;
+}
+footer #company_info li{
+  /* display: inline-block; */
+  margin-top: 10px;
+}
+footer #company_info #copyright {
+  margin-top: 30px;
+  font-size: 12px;
+}
+footer #contact_us #engagement {
+  margin-top: 50px;
+}
+footer #contact_us #engagement li {
+  display: block;
+  color: #eee;
+  font-size: 20px;
+  margin-top: 10px;
+}
+footer #provision a:link {
+  color: #eee;
+  text-decoration: none;
+}
+footer #provision a:hover {
+  color: #eee;
+  text-decoration: none;
+}
+footer #provision a:visited {
+  color: #eee;
+  text-decoration: none;
+}
+footer #provision a:active {
+  color: #eee;
+  text-decoration: none;
+}
+footer #footer_fix {
+  position: fixed;
+  right: 0;
+  bottom: 10px;
+}
+footer #footer_fix li {
+  height: 60px;
+  box-sizing: border-box;
+  display: inline-block;
+  padding: 0;
+}
+footer #footer_fix li img {
+  width: 100%;
+  height: 100%;
+}

@@ -1,0 +1,7 @@
+1689057463407	Rename package 'com.mysite.user'
+1689058038520	Move 'insertUsers.jsp' to 'webapp'
+1689151238145	Move 'getUsers.jsp' to 'webapp'
+1689210072314	Rename resource 'InsertBoard.jsp'
+1689210260743	Rename resource 'insertBoard.jsp'
+1689234811528	Move 'getProdcts.jsp' to 'webapp'
+1689234918179	Rename resource 'getProdcts.jsp'
